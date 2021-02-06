@@ -13,7 +13,7 @@ Concise title
 
 ## Details in Code
 Changes are commented in the index/html [Index](./Develop/index.html)\
-Screenshots ![Website Screenshot1](./Screenshots/screenshot.png)\
+![Website Screenshot1](./Screenshots/screenshot.png)\
 ![Website Screenshot](./Screenshots/shaoge_HW1-Code-Refactor_Develop_index.html.png)
 
 
